@@ -1,0 +1,14 @@
+/* Телефоны */
+@media (min-width: 319px) and 
+(max-width: 479px) {
+    .parent {
+        padding: 10px 20px;
+    }
+    .description {
+        flex-flow: column !important;
+    }
+    .people {
+        width: 100%;
+        margin: auto auto 5px auto !important;
+    }
+}
